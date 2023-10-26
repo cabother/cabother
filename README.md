@@ -74,5 +74,6 @@ Experiência com bancos de dados:
 SO's
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
 </div>
 <br/>
