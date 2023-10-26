@@ -23,7 +23,7 @@
 Atualmente atuo com as seguintes tecnologias: 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/GoLang-61DAFB?style=for-the-badge&logo=go&logoColor=white"/> 
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white" /> 
+    <img align="center" alt="html5" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 <br/>
 
