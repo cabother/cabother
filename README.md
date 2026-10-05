@@ -248,7 +248,11 @@ Bibliotecas **.NET / C#** que publiquei no NuGet para resolver problemas recorre
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cabother&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cabother/cabother/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cabother/cabother/output/github-snake.svg" />
+    <img width="100%" alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/cabother/cabother/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
