@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Renato%20Soares&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Go%20%26%20Java&descAlignY=58&descSize=18&animation=fadeIn" alt="Renato Soares" width="100%" />
+  <img src="assets/header.svg" alt="Renato Soares" width="100%" />
 </p>
 
 <p align="center">
@@ -259,5 +259,5 @@ Bibliotecas **.NET / C#** que publiquei no NuGet para resolver problemas recorre
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
+  <img src="assets/footer.svg" alt="footer" width="100%" />
 </p>

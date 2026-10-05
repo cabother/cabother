@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 700 64px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+    .sub { font: 500 24px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #9fd3ea; letter-spacing: 1px; }
+    .fade { animation: fade 1.2s ease-out both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+  <path d="M0 0H1200V200C1050 240 900 170 750 195C600 220 450 260 300 230C180 206 80 190 0 210Z" fill="url(#bg)"/>
+  <path d="M0 210C80 190 180 206 300 230C450 260 600 220 750 195C900 170 1050 240 1200 200V215C1050 255 900 185 750 210C600 235 450 275 300 245C180 221 80 205 0 225Z" fill="#2c9fd3" opacity="0.35"/>
+  <g class="fade">
+    <text x="600" y="105" text-anchor="middle" class="title">Renato Soares</text>
+    <text x="600" y="150" text-anchor="middle" class="sub">Backend Developer • Go &amp; Java</text>
+  </g>
+</svg>
